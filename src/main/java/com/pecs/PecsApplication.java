@@ -1,4 +1,4 @@
-package com.pecs.pecs;
+package com.pecs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
